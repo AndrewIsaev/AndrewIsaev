@@ -19,6 +19,9 @@ ___
     <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
   </a>
 <h3><b>Frameworks</b></h3>
+  <a href="https://fastapi.tiangolo.com/)">
+    <img src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi">
+  </a>
   <a href="https://www.djangoproject.com/">
     <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/>
   </a>
